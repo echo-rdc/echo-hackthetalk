@@ -1,5 +1,5 @@
-# echo-hackthetalk
-Echo Hack The Talk Materials
+# echo-hackthetalk-2019
+Echo Hack The Talk Materials #2019
 
 Echo Talks - Echo Anniversary - With Tiket.com
 1. Bug Bounty: Do and Don't - @r_u_l_l_y
